@@ -6,7 +6,7 @@ lowest stock and allow the user to restock, display the product with the highesy
 or exit the menu by entering specific commands as displayed in the menu.
 
 ## Installation
-Simply downlaod the .py file and open it using any program of your choice capable of running python. Then create an inventory.txt file and enter your product details
+Simply download the .py file and open it using any program of your choice capable of running python. Then create an inventory.txt file and enter your product details
 in the necessary format. You should now be able to run the .py file as long as the .txt file is in the correct location.
 
 ## Usage
